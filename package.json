@@ -8,6 +8,9 @@
     "start": "node Server.js",
     "build": "webpack"
   },
+  "engines": {
+    "node": "12.18.0"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
