@@ -5,7 +5,7 @@
   "main": "Server.js",
   "scripts": {
     "ipl": "node index.js",
-    "start": "node Server.js"
+    "start": "http-server"
   },
   "keywords": [],
   "author": "",
