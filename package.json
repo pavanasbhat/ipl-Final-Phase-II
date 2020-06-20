@@ -5,7 +5,8 @@
   "main": "Server.js",
   "scripts": {
     "ipl": "node index.js",
-    "start": "http-server"
+    "start": "node Server.js",
+    "build": "webpack"
   },
   "keywords": [],
   "author": "",
