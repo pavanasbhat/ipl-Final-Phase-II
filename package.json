@@ -5,8 +5,7 @@
   "main": "Server.js",
   "scripts": {
     "ipl": "node index.js",
-    "start": "node Server.js",
-    "build": "webpack"
+    "start": "node Server.js"
   },
   "engines": {
     "node": "12.18.0"
